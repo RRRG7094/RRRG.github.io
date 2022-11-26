@@ -1,9 +1,6 @@
 body {
     margin: 0;
     padding: 0;
-}
-
-body {
     background-color: rgba(50, 50, 50);
 }
 
@@ -38,7 +35,7 @@ a:hover {
     font-size: xx-large
 }
 
-.blong {
+.littletitle {
     font-size: x-large;
 }
 
@@ -75,6 +72,14 @@ p {
     line-height: 50px
 }
 
-.RN{
-    vertical-align: middle;
+.tip{
+    line-height: 50px;
+}
+
+.indent{
+    Text-indent: 2em;
+}
+
+.right{
+    Text-align: right;
 }
