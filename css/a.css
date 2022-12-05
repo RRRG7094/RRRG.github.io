@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: rgba(50, 50, 50);
+    background-color: rgba(130, 55, 55);
 }
 
 div {
@@ -20,7 +20,7 @@ a {
 }
 
 a:hover {
-    color: brown;
+    color: white;
 }
 
 .th {
@@ -28,15 +28,17 @@ a:hover {
 }
 
 .header1 {
-    background-color: rgba(120, 120, 120, 20)
-}
-
-.title {
-    font-size: xx-large
+    background-color: rgba(160, 41, 51);
+    font-size: 32px;
+    padding-left: 20px;
+    color: rgb(226, 166, 14);
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 .littletitle {
     font-size: x-large;
+    font-weight: bold;
 }
 
 table {
@@ -52,24 +54,25 @@ td {
 }
 
 td:hover {
-    background-color: rgba(120, 120, 120, 20);
+    background-color: rgba(160, 41, 51);
 }
 
 .bc {
-    background-color: rgba(190, 190, 190);
+    background-color: rgb(187, 153, 66);
 }
 
-.ti {
-    margin-left: 20px;
-    margin-right: 20px;
+.right{
+    text-align: right;
 }
 
 .center {
-    text-align:center
+    text-align:center;
 }
 
 p {
-    line-height: 50px
+    line-height: 50px;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
 .tip{
@@ -79,11 +82,13 @@ p {
 .indent{
     Text-indent: 2em;
 }
-
-.right{
-    Text-align: right;
+/* 首行缩进 */
+.subject{
+    padding-top: 20px ;
+    padding-bottom: 20px;
 }
-
-.daonian{
-    background-color: dimgray;
+/* 专题板块 */
+.bankuai{
+    margin-top: 15px;
 }
+/* div大板块用 */
