@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: rgba(130, 55, 55);
+    background-color: rgba(50, 50, 50);
 }
 
 div {
@@ -28,10 +28,10 @@ a:hover {
 }
 
 .header1 {
-    background-color: rgba(160, 41, 51);
+    background-color: rgba(120, 120, 120);
     font-size: 32px;
     padding-left: 20px;
-    color: rgb(226, 166, 14);
+    color: black;
     padding-top: 5px;
     padding-bottom: 5px;
 }
@@ -54,11 +54,11 @@ td {
 }
 
 td:hover {
-    background-color: rgba(160, 41, 51);
+    background-color: rgba(120, 120, 120);
 }
 
 .bc {
-    background-color: rgb(187, 153, 66);
+    background-color: rgba(190, 190, 190);
 }
 
 .right{
@@ -93,3 +93,9 @@ p {
     margin-top: 15px;
 }
 /* div大板块用 */
+.daonian{
+    background-color: dimgray;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+/* 悼念板块专用 */
