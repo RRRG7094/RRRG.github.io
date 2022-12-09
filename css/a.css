@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: rgba(50, 50, 50);
+    background-color: whitesmoke;
 }
 
 div {
@@ -20,7 +20,7 @@ a {
 }
 
 a:hover {
-    color: white;
+    color: rgb(192, 17, 17);
 }
 
 .th {
@@ -28,10 +28,9 @@ a:hover {
 }
 
 .header1 {
-    background-color: rgba(120, 120, 120);
+    background-color: rgb(192, 17, 17);
     font-size: 32px;
-    padding-left: 20px;
-    color: black;
+    color: whitesmoke;
     padding-top: 5px;
     padding-bottom: 5px;
 }
@@ -54,19 +53,19 @@ td {
 }
 
 td:hover {
-    background-color: rgba(120, 120, 120);
+    background-color: whitesmoke;
 }
 
 .bc {
-    background-color: rgba(190, 190, 190);
+    background-color: white;
 }
 
-.right{
+.right {
     text-align: right;
 }
 
 .center {
-    text-align:center;
+    text-align: center;
 }
 
 p {
@@ -75,27 +74,27 @@ p {
     padding-right: 15px;
 }
 
-.tip{
+.tip {
     padding-top: 5px;
     padding-bottom: 5px;
 }
 
-.indent{
+.indent {
     Text-indent: 2em;
 }
+
 /* 首行缩进 */
-.subject{
-    padding-top: 20px ;
+.bankuai {
+    margin-top: 15px;
+    padding-top: 20px;
     padding-bottom: 20px;
 }
-/* 专题板块 */
-.bankuai{
-    margin-top: 15px;
-}
+
 /* div大板块用 */
-.daonian{
+.daonian {
     background-color: dimgray;
     padding-top: 20px;
     padding-bottom: 20px;
 }
+
 /* 悼念板块专用 */
