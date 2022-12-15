@@ -1,0 +1,103 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: whitesmoke;
+}
+
+div {
+    width: 80%;
+    margin: 0 auto;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a:hover {
+    color: rgb(192, 17, 17);
+}
+
+.th {
+    font-size: x-large;
+}
+
+.header1 {
+    background-color: rgb(192, 17, 17);
+    font-size: 32px;
+    color: whitesmoke;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+}
+
+.littletitle {
+    font-size: x-large;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+table {
+    margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+td:hover {
+    background-color: whitesmoke;
+}
+
+.bc {
+    background-color: white;
+}
+
+.right {
+    text-align: right;
+}
+
+.center {
+    text-align: center;
+}
+
+p {
+    line-height: 30px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.tip {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.indent {
+    Text-indent: 2em;
+}
+
+/* 首行缩进 */
+.bankuai {
+    margin-top: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+/* div大板块用 */
+.daonian {
+    background-color: dimgray;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+/* 悼念板块专用 */
