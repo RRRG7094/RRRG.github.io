@@ -39,18 +39,19 @@ a:hover {
 .littletitle {
     font-size: x-large;
     font-weight: bold;
+    margin-bottom: 20px;
 }
 
 table {
-    line-height: 50px;
     margin: 0 auto;
     margin-left: auto;
     margin-right: auto;
 }
 
 td {
-    padding-left: 50px;
-    padding-right: 50px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 td:hover {
@@ -70,11 +71,9 @@ td:hover {
 }
 
 p {
-    line-height: 50px;
-    padding-left: 15px;
-    padding-right: 15px;
-    margin-left: 50px;
-    margin-right: 50px;
+    line-height: 30px;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 
 .tip {
